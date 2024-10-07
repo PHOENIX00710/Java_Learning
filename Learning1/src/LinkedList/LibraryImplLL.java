@@ -1,3 +1,5 @@
+package LinkedList;
+
 import java.util.LinkedList;
 import java.util.Objects;
 
@@ -7,7 +9,7 @@ class Laptop{
 
     @Override
     public String toString() {
-        return "Laptop{" +
+        return "LinkedList.Laptop{" +
                 "serialNumber=" + serialNumber +
                 ", name='" + name + '\'' +
                 '}';
